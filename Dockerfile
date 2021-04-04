@@ -1,4 +1,4 @@
-FROM        alpine:3.2
+FROM        alpine:3.11.10
 MAINTAINER  Steve Durrheimer <s.durrheimer@gmail.com>
 
 ENV GLIBC_VERSION="2.23-r1"
